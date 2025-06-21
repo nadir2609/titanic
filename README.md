@@ -60,4 +60,4 @@ Slicers are available to filter the entire dashboard based on:
 * **Sex** (Male / Female)
 
 ---
-[!Screenshot](https://github.com/nadir2609/titanic/blob/main/titanic.png)
+![Screenshot](https://github.com/nadir2609/titanic/blob/main/titanic.png)
