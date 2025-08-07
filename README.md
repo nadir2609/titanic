@@ -64,10 +64,4 @@ Model performance was compared to select the best one based on validation accura
 
 ---
 
-## ✅ Conclusion
-
-This project showcases a full data science pipeline on a classic dataset. With proper preprocessing and modeling, it is possible to build models that predict Titanic survival with a reasonable degree of accuracy.
-
----
-
 Let me know if you'd like this saved as a markdown file or want to include visuals/plots in the repo.
