@@ -1,5 +1,3 @@
-Here's a clean and professional `README.md` file you can use for your Titanic data science project. You can adjust it for platforms like GitHub or GitLab.
-
 ---
 
 # 🚢 Titanic - Machine Learning from Disaster
